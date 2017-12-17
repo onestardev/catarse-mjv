@@ -49,7 +49,7 @@ puts 'Seeding the database...'
   company_name: 'Catarse',
   company_logo: 'http://catarse.me/assets/catarse_bootstrap/logo_icon_catarse.png',
   host: 'catarse.me',
-  base_url: "http://catarse.me",
+  base_url: "localhost:3000",
 
   email_contact: 'contato@catarse.me',
   email_payments: 'financeiro@catarse.me',

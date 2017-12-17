@@ -12,7 +12,7 @@ pt:
       signin: Login
       signup: Cadastre-se
       submit: Cadastre sua Startup
-      search: Busque projetos
+      search: Busque startups
     login:
       login_with_facebook: entre com sua conta do facebook
     user:
